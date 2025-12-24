@@ -1,0 +1,1 @@
+from services.tg.config.client_config import TDLibConfig

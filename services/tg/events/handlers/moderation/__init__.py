@@ -1,0 +1,1 @@
+from services.tg.events.handlers.moderation.group_moderation import GroupModerationHandler
